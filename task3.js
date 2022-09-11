@@ -101,7 +101,7 @@ function fun() {
   }
 
   let table =
-    "<table><tr><th>Company</th><th>Model</th><th>Memory(GB)</th><th>Price</th></tr>";
+    "<table><tr><th>Company</th><th>Model</th><th>Memory(GB)</th><th>Price(RS)</th></tr>";
   data.forEach((val) => {
     table +=
       "<tr><td>" +
