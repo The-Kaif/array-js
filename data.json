@@ -1,0 +1,31 @@
+[
+    {
+        "Company": "Samsung",
+        "Model": "Galaxy",
+        "Memory": 64,
+        "Price": 15000
+    },
+    {
+        "Company": "Nokia",
+        "Model": "S730",
+        "Memory": 128,
+        "Price": 22000
+    },
+    {
+        "Company": "Xiaomi",
+        "Model": "Note",
+        "Memory": 32,
+        "Price": 12000
+    },
+    {
+        "Company": "Motorala",
+        "Model": "G10",
+        "Memory": 32,
+        "Price": 15000
+    },{
+        "Company": "Apple",
+        "Model": "S12",
+        "Memory": 64,
+        "Price": 25000
+    }
+]
